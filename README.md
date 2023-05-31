@@ -1,4 +1,4 @@
-```
+
 # Silent Play
 
 Silent Play is a simple yet powerful Android app that enhances your mobile gaming experience by disabling Bluetooth and Wi-Fi connectivity. With the rise of mobile gaming, it's become increasingly important to have a distraction-free environment to fully immerse yourself in the game. However, notifications and alerts from other apps can easily disrupt your gameplay and ruin your concentration. 
@@ -26,4 +26,3 @@ Silent Play is released under the MIT License. See `LICENSE` for more informatio
 ## Contact
 
 If you have any questions or feedback about Silent Play, please feel free to contact us at [email address].
-```
