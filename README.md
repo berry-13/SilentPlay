@@ -16,7 +16,7 @@ To get started with Silent Play, simply download the shortcut and add it to your
 
 ## Language
 
-for the italian 'README.md' go to 'README-it.md'
+for the italian `README.md` go to `README-it.md`
 ## Contributing
 
 Silent Play is an open-source project, and we welcome contributions from anyone who is interested in improving the app. If you would like to contribute, please fork the repository and submit a pull request with your changes. 
