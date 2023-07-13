@@ -25,7 +25,3 @@ Silent Play is an open-source project, and we welcome contributions from anyone 
 ## License
 
 Silent Play is released under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-If you have any questions or feedback about Silent Play, please feel free to contact us at info@berrystatus.com 📧
