@@ -13,10 +13,6 @@ Funziona su tutti i dispositivi iOS e iPadOS 📱
 
 Per iniziare con Silent Play, scarica semplicemente la scorciatoia e aggiungila al tuo comando. Una volta aggiunta, puoi avviare lo script aggiungendolo alla schermata principale e toccandolo. 🚀
 
-## Lingua
-
-Per la versione italiana di README.md, vai a README-it.md.
-
 ## Contributi
 
 Silent Play è un progetto open-source e accogliamo i contributi di chiunque sia interessato a migliorare l'app. Se desideri contribuire, per favore fai un fork del repository e invia una pull request con le tue modifiche. ✨
