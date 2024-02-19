@@ -1,8 +1,8 @@
 # Silent Play 🤫
 
-Silent Play è una scorciatoia semplice ma potente che migliora la tua esperienza di gioco su dispositivi mobili disabilitando la connettività Bluetooth e Wi-Fi in modo tale che la scuola non possa vedere cosa stai facendo. Con l'aumento dei giochi su dispositivi mobili, è diventato sempre più importante avere un ambiente privo di distrazioni per immergerti completamente nel gioco. Tuttavia, le notifiche e gli avvisi dalle altre app o dalla scuola possono interrompere facilmente il tuo gioco e rovinare la tua concentrazione.
+Silent Play è una scorciatoia semplice ma potente che migliora la tua esperienza di gioco su dispositivi mobili disabilitando la connettività Bluetooth e Wi-Fi in modo tale che la scuola non possa vedere cosa stai facendo. Con l'aumento dei giochi su dispositivi mobili, è diventato sempre più importante avere un ambiente privo di distrazioni per immergerti completamente nel gioco. Tuttavia, le notifiche e gli avvisi dalle altre app o dalla scuola possono interrompere facilmente il tuo gioco e rovinare la tua concentrazione
 
-Silent Play risolve questo problema disabilitando automaticamente Bluetooth e Wi-Fi quando avvii il tuo gioco preferito. Ciò garantisce che non sarai interrotto da chiamate in arrivo, messaggi o notifiche mentre stai giocando. L'app è facile da usare e può essere personalizzata per soddisfare le tue preferenze.
+Silent Play risolve questo problema disabilitando automaticamente Bluetooth e Wi-Fi quando avvii il tuo gioco preferito. Ciò garantisce che non sarai interrotto da chiamate in arrivo, messaggi o notifiche mentre stai giocando. L'app è facile da usare e può essere personalizzata per soddisfare le tue preferenze. I secondi minimi per il controllo dei servizi e' di 1 secondo
 
 ## Caratteristiche
 
@@ -23,4 +23,4 @@ Silent Play è rilasciato con la Licenza MIT. Consulta LICENSE per ulteriori inf
 
 ## Contatti
 
-Se hai domande o feedback su Silent Play, non esitare a contattarci all'indirizzo info@berrystatus.com 📧
+Se hai domande o feedback su Silent Play, non esitare a contattarci all'indirizzo me@berrystatus.com 📧
