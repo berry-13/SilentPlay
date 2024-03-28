@@ -14,10 +14,6 @@ Silent Play solves this problem by automatically disabling Bluetooth and Wi-Fi w
 
 To get started with Silent Play, simply click [here](https://github.com/Berry-13/SilentPlay/releases) and download the latest releas. Once installed, you can launch the script by adding it to the home and tapping it. 🚀
 
-## Language
-
-for the italian `README.md` go to `README-it.md`click [here](https://github.com/Berry-13/SilentPlay/edit/main/README-it.md)
-
 ## License
 
 Silent Play is released under the MIT License. See `LICENSE` for more information.
